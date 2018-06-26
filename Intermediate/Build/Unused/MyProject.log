@@ -1,0 +1,15 @@
+﻿  Parsing headers for MyProjectEditor
+    Running UnrealHeaderTool "C:\Users\camer\Documents\Unreal Projects\MyProject\MyProject.uproject" "C:\Users\camer\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyProjectEditor in 9.7812493 seconds
+  Performing 7 actions (4 in parallel)
+  PlayerCharacter.cpp
+  CharacterInfoComponent.cpp
+  CharacterInfoComponent.gen.cpp
+  MyProject.init.gen.cpp
+  PlayerCharacter.gen.cpp
+  [6/7] Link UE4Editor-MyProject.dll
+  [7/7] Link UE4Editor-MyProject.lib
+     Creating library C:\Users\camer\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.lib and object C:\Users\camer\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.exp
+     Creating library C:\Users\camer\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.lib and object C:\Users\camer\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.exp
+  Deploying MyProjectEditor Win64 Development...
+  Total build time: 14.91 seconds (Local executor: 3.25 seconds)
